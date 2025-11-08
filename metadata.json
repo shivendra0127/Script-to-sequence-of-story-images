@@ -1,0 +1,5 @@
+{
+  "name": "AI Storyboard Generator",
+  "description": "An application that takes a script as input, breaks it down into scenes, and generates storyboard images for each scene using AI. It also includes a chat feature for asking questions.",
+  "requestFramePermissions": []
+}
